@@ -1,0 +1,185 @@
+{
+  "total_count": 9,
+  "artifacts": [
+    {
+      "id": 12250931129,
+      "node_id": "MDg6QXJ0aWZhY3QxMjI1MDkzMTEyOQ==",
+      "name": "graphiques",
+      "size_in_bytes": 9527,
+      "url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/12250931129",
+      "archive_download_url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/12250931129/zip",
+      "expired": false,
+      "digest": "sha256:d78cacbf0a4b682d74a586005046d3340d35d3c930482b1e6d3dc14297375983",
+      "created_at": "2026-10-20T08:28:51Z",
+      "updated_at": "2026-10-20T08:28:51Z",
+      "expires_at": "2027-01-18T08:28:18Z",
+      "workflow_run": {
+        "id": 39393631560,
+        "repository_id": 1381526770,
+        "head_repository_id": 1381526770,
+        "head_branch": "main",
+        "head_sha": "8c4c748efd1ced0943f0d0d8d724a58f0f170e69"
+      }
+    },
+    {
+      "id": 11800137133,
+      "node_id": "MDg6QXJ0aWZhY3QxMTgwMDEzNzEzMw==",
+      "name": "graphiques",
+      "size_in_bytes": 9527,
+      "url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/11800137133",
+      "archive_download_url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/11800137133/zip",
+      "expired": false,
+      "digest": "sha256:5867590eca01bd370fc8ec973f6427d53af6fa486d25031d0b6c25f1bbb5420d",
+      "created_at": "2026-10-13T09:00:40Z",
+      "updated_at": "2026-10-13T09:00:40Z",
+      "expires_at": "2027-01-11T09:00:27Z",
+      "workflow_run": {
+        "id": 38373232765,
+        "repository_id": 1381526770,
+        "head_repository_id": 1381526770,
+        "head_branch": "main",
+        "head_sha": "1c944f84d16c4c3406643b95b15195da9b29f0ed"
+      }
+    },
+    {
+      "id": 11799662109,
+      "node_id": "MDg6QXJ0aWZhY3QxMTc5OTY2MjEwOQ==",
+      "name": "graphiques",
+      "size_in_bytes": 9527,
+      "url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/11799662109",
+      "archive_download_url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/11799662109/zip",
+      "expired": false,
+      "digest": "sha256:685e54c5256aebb498de482c5135322b3549185cd3b1a1cc63b814e698294539",
+      "created_at": "2026-10-13T08:55:09Z",
+      "updated_at": "2026-10-13T08:55:09Z",
+      "expires_at": "2027-01-11T08:54:57Z",
+      "workflow_run": {
+        "id": 38372569476,
+        "repository_id": 1381526770,
+        "head_repository_id": 1381526770,
+        "head_branch": "main",
+        "head_sha": "75a09c114cb5a9e349f106baae1c260bc3b2e937"
+      }
+    },
+    {
+      "id": 11798949167,
+      "node_id": "MDg6QXJ0aWZhY3QxMTc5ODk0OTE2Nw==",
+      "name": "graphs",
+      "size_in_bytes": 5651,
+      "url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/11798949167",
+      "archive_download_url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/11798949167/zip",
+      "expired": false,
+      "digest": "sha256:7a292a811ebe031b13fdb9b66ccac425a66fb4bec6fdfe5425e1a8d294d975ee",
+      "created_at": "2026-10-13T08:50:39Z",
+      "updated_at": "2026-10-13T08:50:39Z",
+      "expires_at": "2027-01-11T08:50:23Z",
+      "workflow_run": {
+        "id": 38372033489,
+        "repository_id": 1381526770,
+        "head_repository_id": 1381526770,
+        "head_branch": "main",
+        "head_sha": "ebd7098ec79aecea11d424c0538f0298b4c18ba2"
+      }
+    },
+    {
+      "id": 11798237198,
+      "node_id": "MDg6QXJ0aWZhY3QxMTc5ODIzNzE5OA==",
+      "name": "graphs",
+      "size_in_bytes": 5660,
+      "url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/11798237198",
+      "archive_download_url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/11798237198/zip",
+      "expired": false,
+      "digest": "sha256:58dd5b5533e02d57cd4cc88b4c163d22cc265d781f1aa73ba0c67cf7d1c0292d",
+      "created_at": "2026-10-13T08:28:45Z",
+      "updated_at": "2026-10-13T08:28:45Z",
+      "expires_at": "2027-01-11T08:28:31Z",
+      "workflow_run": {
+        "id": 35735834879,
+        "repository_id": 1381526770,
+        "head_repository_id": 1381526770,
+        "head_branch": "main",
+        "head_sha": "c79254be58cc9cb0ee71e2100265dbe58db14cd9"
+      }
+    },
+    {
+      "id": 10697215257,
+      "node_id": "MDg6QXJ0aWZhY3QxMDY5NzIxNTI1Nw==",
+      "name": "graph1",
+      "size_in_bytes": 5654,
+      "url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/10697215257",
+      "archive_download_url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/10697215257/zip",
+      "expired": false,
+      "digest": "sha256:1093d6a221396519be584e6e6f7650953b4117ac98ee365e1dba5c79e5336dbc",
+      "created_at": "2026-09-22T13:38:51Z",
+      "updated_at": "2026-09-22T13:38:51Z",
+      "expires_at": "2026-12-21T13:38:37Z",
+      "workflow_run": {
+        "id": 35733969775,
+        "repository_id": 1381526770,
+        "head_repository_id": 1381526770,
+        "head_branch": "main",
+        "head_sha": "8ff9ddc3623706d475f894bcddd3ba8032eb5f85"
+      }
+    },
+    {
+      "id": 10696949457,
+      "node_id": "MDg6QXJ0aWZhY3QxMDY5Njk0OTQ1Nw==",
+      "name": "graphs",
+      "size_in_bytes": 5654,
+      "url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/10696949457",
+      "archive_download_url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/10696949457/zip",
+      "expired": false,
+      "digest": "sha256:3dc5a5ae14e0e71da02ba5fb9b29b0d9943b69f50a3283ee7076c8d972666689",
+      "created_at": "2026-09-22T13:47:50Z",
+      "updated_at": "2026-09-22T13:47:50Z",
+      "expires_at": "2026-12-21T13:47:36Z",
+      "workflow_run": {
+        "id": 35735660840,
+        "repository_id": 1381526770,
+        "head_repository_id": 1381526770,
+        "head_branch": "main",
+        "head_sha": "ea8431b7b00786f244a5b39c0e2aa28fc134b6bf"
+      }
+    },
+    {
+      "id": 10696457931,
+      "node_id": "MDg6QXJ0aWZhY3QxMDY5NjQ1NzkzMQ==",
+      "name": "graph1",
+      "size_in_bytes": 5654,
+      "url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/10696457931",
+      "archive_download_url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/10696457931/zip",
+      "expired": false,
+      "digest": "sha256:8566d7a814ec44e74e163a2a9df83991a600431082114a5619faaacb034140db",
+      "created_at": "2026-09-22T13:31:19Z",
+      "updated_at": "2026-09-22T13:31:19Z",
+      "expires_at": "2026-12-21T13:31:00Z",
+      "workflow_run": {
+        "id": 35733969775,
+        "repository_id": 1381526770,
+        "head_repository_id": 1381526770,
+        "head_branch": "main",
+        "head_sha": "8ff9ddc3623706d475f894bcddd3ba8032eb5f85"
+      }
+    },
+    {
+      "id": 10695599557,
+      "node_id": "MDg6QXJ0aWZhY3QxMDY5NTU5OTU1Nw==",
+      "name": "graph1",
+      "size_in_bytes": 1071,
+      "url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/10695599557",
+      "archive_download_url": "https://api.github.com/repos/Admm3bnhd/tp-graphes/actions/artifacts/10695599557/zip",
+      "expired": false,
+      "digest": "sha256:408746c9e04bfd424ebfd9161213321084a41305698d686f733a9832d67db3e6",
+      "created_at": "2026-09-22T13:16:02Z",
+      "updated_at": "2026-09-22T13:16:02Z",
+      "expires_at": "2026-12-21T13:15:51Z",
+      "workflow_run": {
+        "id": 35732331253,
+        "repository_id": 1381526770,
+        "head_repository_id": 1381526770,
+        "head_branch": "main",
+        "head_sha": "52e9008301e68f20afeefd48c14864b059eafe7b"
+      }
+    }
+  ]
+}
